@@ -1,1 +1,2 @@
 print("La-la-la")
+print("I'm dancing!")
